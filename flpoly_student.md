@@ -1,27 +1,26 @@
-## Your name 
+### Jeremy Barrera 
 
-### Term Year 
+### Fall 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1 Majic
+- Course 1 Analytic Geometry and Calculus 1
 
-- Course 2
+- Course 2 Introduction to Computation and programming
 
-- Course 3
+- Course 3 Introduction to data science 
 
-- Course 4
+- Course 4 Python for Data analytics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Futbol (soccer)
 
-- Thing 2
+- Working out
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
-
+- Having a good time 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/09/02
